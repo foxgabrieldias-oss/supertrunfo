@@ -1,6 +1,6 @@
 # supertrunfo
 Super Trunfo - Nível Novato
-Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 21/02
+Desafio Super Trunfo - Países - Cadastro das Cartas - Atualizado: 07/09
 
 Bem-vindo ao desafio "Super Trunfo - Países"! No jogo Super Trunfo, os jogadores comparam os atributos das cartas para determinar o mais forte.
 
